@@ -493,3 +493,9 @@ body {
 .social-icons {
     padding-left:200px !important;
 }
+@media (max-width: 600px) {.header {
+    height: 60px; 
+    padding: 10px;
+    font-size: 18px;
+  }
+}
