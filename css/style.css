@@ -6,7 +6,7 @@
 body{
 /*     height:7150px ; */
         min-height: 100vh;
-    overflow-x:hidden;
+/*     overflow-x:hidden; */
 
 }
 .bold{
@@ -494,9 +494,9 @@ body {
 .social-icons {
     padding-left:200px !important;
 }
-@media (max-width: 600px) { .navbar {
+/* @media (max-width: 600px) { .navbar {
     height: 100px; 
     padding: 10px;
     font-size: 18px;
   }
-}
+} */
