@@ -486,6 +486,10 @@ body {
     width: 100%;
   }
 }
+.hav{
+    position: relative;
+    z-index: 1;
+}
 /* .social-icons{
     margin-right: 50px !important;
 } */
