@@ -490,3 +490,6 @@ body {
 .social-icons a{
     margin-right: 1900px !important;
 }
+.social-icons {
+    padding-left:200px !important;
+}
