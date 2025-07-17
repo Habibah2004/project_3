@@ -493,7 +493,7 @@ body {
 .social-icons {
     padding-left:200px !important;
 }
-@media (max-width: 600px) {.header {
+@media (max-width: 600px) { .navbar {
     height: 60px; 
     padding: 10px;
     font-size: 18px;
