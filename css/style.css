@@ -4,10 +4,8 @@
     padding: 0;
 }
 body{
-/*     height:7150px ; */
-        min-height: 100vh;
-/*     overflow-x:hidden; */
-
+    /* height:7150px ; */
+    min-height: 100vh;
 }
 .bold{
     font-weight: bold;
@@ -488,15 +486,6 @@ body {
     width: 100%;
   }
 }
-.social-icons a{
-    margin-right: 1900px !important;
-}
-.social-icons {
-    padding-left:200px !important;
-}
-/* @media (max-width: 600px) { .navbar {
-    height: 100px; 
-    padding: 10px;
-    font-size: 18px;
-  }
+/* .social-icons{
+    margin-right: 50px !important;
 } */
