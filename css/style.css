@@ -497,12 +497,11 @@ body {
 .social-icons a{
     margin-right: 700px !important;
     z-index: 50000 !important;
-    position: fixed !important;
+    
 }
 .header {
   width: 100%;
   overflow-x: hidden;
-    position: fixed !important;
 }
 
 .container, .navbar, .row, .col {
