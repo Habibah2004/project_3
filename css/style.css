@@ -490,9 +490,12 @@ body {
     position: relative;
     z-index: 1;
 }
-/* .social-icons{
+.social-icons{
     margin-right: 50px !important;
-} */
+}
+.social-icons a{
+    margin-right: 400px !important;
+}
 .header {
   width: 100%;
   overflow-x: hidden;
