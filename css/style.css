@@ -494,7 +494,8 @@ body {
     margin-right: 50px !important;
 }
 .social-icons a{
-    margin-right: 400px !important;
+    margin-right: 800px !important;
+    z-index: 50000 ;
 }
 .header {
   width: 100%;
@@ -507,4 +508,4 @@ body {
 }
 
 .header{
-    width:380px !important ; 
+    width:380px !important ; }
