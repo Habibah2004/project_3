@@ -491,16 +491,18 @@ body {
     z-index: 1;
 }
 .social-icons{
-    margin-right: 150px !important;
+    margin-right: 120px !important;
      z-index: 50000 !important ;
 }
 .social-icons a{
-    margin-right: 800px !important;
+    margin-right: 700px !important;
     z-index: 50000 !important;
+    position: fixed !important;
 }
 .header {
   width: 100%;
   overflow-x: hidden;
+    position: fixed !important;
 }
 
 .container, .navbar, .row, .col {
