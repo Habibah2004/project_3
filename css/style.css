@@ -145,7 +145,7 @@ li{
 .Popuar button{
     width: 108px;
     z-index: 40 !important;
-    margin-top: -100px !important;
+/*     margin-top: -100px !important; */
     margin-left: 155px;
 }
 .d2{
