@@ -491,11 +491,12 @@ body {
     z-index: 1;
 }
 .social-icons{
-    margin-right: 50px !important;
+    margin-right: 150px !important;
+     z-index: 50000 !important ;
 }
 .social-icons a{
     margin-right: 800px !important;
-    z-index: 50000 ;
+    z-index: 50000 !important;
 }
 .header {
   width: 100%;
