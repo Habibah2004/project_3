@@ -493,3 +493,12 @@ body {
 /* .social-icons{
     margin-right: 50px !important;
 } */
+.header {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.container, .navbar, .row, .col {
+  max-width: 100%;
+  overflow-x: hidden;
+}
