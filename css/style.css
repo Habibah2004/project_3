@@ -502,3 +502,6 @@ body {
   max-width: 100%;
   overflow-x: hidden;
 }
+
+.header{
+    width: 300px !important ; 
